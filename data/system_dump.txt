@@ -1,0 +1,14 @@
+0x60000237c900: movies|heap|id|id|integer|name|char*|age_restriction|smallint|length|integer|rating|real|0x60000237ca00
+                data:
+0x60000237ca00: 1|Bad Times at the El Royale|17|141|7.100000|
+0x60000237ca2a: 2|WALL-E|0|97|8.400000|
+0x60000237ca40: 3|Bullet Train|17|97|7.300000|
+
+
+0x60000237c963: star|heap|id|id|integer|name|char*|age|smallint|last_film|char*|0x60000237cb00
+                data:
+0x60000237cb00: 1|Chris Hamsworth|39|Furiosa|
+0x60000237cb1f: 2|John Ratzenberger|75|Luck|
+0x60000237cb3d: 3|Brad Pitt|58|Babylon|
+
+
